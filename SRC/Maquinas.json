@@ -1,0 +1,92 @@
+[
+    {
+        "Id": "1",
+        "Categoria": "Tren Superior",
+        "Nombre": "Press inclinido",
+        "Musculo": "Pectorales-Superiores",
+        "Fabricante": "Rebook",
+        "Precio": "5000000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "2",
+        "Categoria": "Tren Superior",
+        "Nombre": "Press",
+        "Musculo": "Pectorales-Medios",
+        "Fabricante": "Rebook",
+        "Precio": "5000000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "3",
+        "Categoria": "Tren Superior",
+        "Nombre": "Press declinado",
+        "Musculo": "Pectorales-Inferiores",
+        "Fabricante": "Rebook",
+        "Precio": "5000000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "4",
+        "Categoria": "Tren Inferior",
+        "Nombre": "Press Cuadriceps",
+        "Musculo": "Cuadriceps",
+        "Fabricante": "PRO STRENGTH",
+        "Precio": "7000000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "5",
+        "Categoria": "Full Body",
+        "Nombre": "Rack de Ejercicios Libres",
+        "Musculo": "Full Body",
+        "Fabricante": "PRO STRENGTH",
+        "Precio": "6000000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "6",
+        "Categoria": "Full Body",
+        "Nombre": "Mancuernas - 20 libras",
+        "Musculo": "Full Body",
+        "Fabricante": "IRONMASTER",
+        "Precio": "200000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "7",
+        "Categoria": "Full Body",
+        "Nombre": "Mancuernas - 40 libras",
+        "Musculo": "Full Body",
+        "Fabricante": "IRONMASTER",
+        "Precio": "250000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "8",
+        "Categoria": "Full Body",
+        "Nombre": "Barra Olímpica",
+        "Musculo": "Full Body",
+        "Fabricante": "HAMMER",
+        "Precio": "1500000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "9",
+        "Categoria": "Tren Inferior",
+        "Nombre": "Press Acostado Trasero",
+        "Musculo": "Isquiotibiales",
+        "Fabricante": "HAMMER",
+        "Precio": "2000000",
+        "Sede": "Itagui"
+    },
+    {
+        "Id": "10",
+        "Categoria": "Full Body",
+        "Nombre": "Multipower Grande",
+        "Musculo": "Full Body",
+        "Fabricante": "BodyMAx",
+        "Precio": "10000000",
+        "Sede": "Itagui"
+    }
+]
